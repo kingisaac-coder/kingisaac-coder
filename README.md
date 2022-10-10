@@ -1,19 +1,19 @@
-<h1 align="center">💰🏆 Tech Wrld 🏆🏆🏆💎💰 <br/> Hi👋, I'm Isaac Ezesinachi✔️💰🏆💰🏆</h1>
-<h3 align="center">A passionate frontend developer from Nigeria🔴, My Goal is to win win win and create nice websites and app that'll be the best 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆✔️✔️✔️✔️✔️✔️✔️✔️💯💯💯🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆</h3>
+<h1 align="center">💰💰💰🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆Welcome to Tech Wrld 🏆🏆🏆🏆🏆🏆 💎💎💎💎💎💎💎💎💎💎💎💎💎💰💰💰💰💰💰💰💰💰 Isaac Ezesinachi✔️🏆🏆🚀🚀🚀🚀🚀</h1>
+<h3 align="center">A passionate frontend developer from Nigeria🔴🚀🚀, My Goal is to win win win and create nice websites and app that'll be the best 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆✔️✔️✔️✔️✔️✔️✔️✔️💯💯🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingisaac-coder&label=Profile%20views&color=0e75b6&style=flat" alt="kingisaac-coder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingisaac-coder" alt="kingisaac-coder" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/tessy492485191" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/tessy492485191?logo=twitter&style=for-the-badge" alt="https://twitter.com/tessy492485191" /></a> </p>
 
-- Hi 👋, I've Currently built [Airbnb Clone💣](https://airbnb-clone-32723.web.app/)
+- Hi 👋, I've Currently built [Airbnb Clone 💣🚀](https://airbnb-clone-32723.web.app/)
 
 - 🌱 I’m currently learning **Redux, Next.js, Express.js and C**
 
-- I've Currently built [Hulu Clone💣](https://hulu-clone-5ba29.web.app/)
+- I've Currently built [Hulu Clone 💣🚀](https://hulu-clone-5ba29.web.app/)
 
-- I've Currently built [The Netflix Clone 💣](https://netflix-clone-dbc22.web.app/)
+- I've Currently built [The Netflix Clone 🚀💣](https://netflix-clone-dbc22.web.app/)
 
 - 💬 Ask me about **React, Redux, Next.js and Node.js**
 
@@ -23,6 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/https://twitter.com/tessy492485191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/tessy492485191" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/king-isaac-9a0170247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/king-isaac-9a0170247/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19944408/king-isaac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19944408/king-isaac" height="30" width="40" /></a>
 <a href="https://instagram.com/@tessynba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@tessynba" height="30" width="40" /></a>
 </p>
 
