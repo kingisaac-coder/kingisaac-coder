@@ -1,5 +1,5 @@
   <h1 align="center" margin-top:"-20%"> Hi 👋, I'm  Isaac Ezesinachi Testimony✔️🏆🚀</h1>
-<h3 align="center">A passionate frontend developer from Nigeria🔴🚀🚀, My Goal is to win win win and create nice websites and app that'll be the best.</h3>
+<h3 align="center">A passionate frontend developer from Nigeria🔴🚀🚀.</h3>
 <img align="right" alt"hacking"  width="330px" src="https://i.pinimg.com/236x/91/c0/05/91c005b0408b1b27776341ef8156660e.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingisaac-coder&label=Profile%20views&color=0e75b6&style=flat" alt="kingisaac-coder" /> </p>
 
