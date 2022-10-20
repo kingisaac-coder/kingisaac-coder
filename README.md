@@ -7,11 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/tessy492485191" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/tessy492485191?logo=twitter&style=for-the-badge" alt="https://twitter.com/tessy492485191" /></a> </p>
 
-- Hi 👋, I've Currently built [Airbnb Clone 💣🚀](https://airbnb-clone-32723.web.app/)
+
 
 - 🌱 I’m currently learning **Redux, Next.js, Express.js and C**
-
+- Hi 👋, I've Currently built [Airbnb Clone 💣🚀](https://airbnb-clone-32723.web.app/)
 - I've Currently built [Hulu Clone 💣🚀](https://hulu-clone-5ba29.web.app/)
+- I've Currently built [Google Clone 💣🚀](https://clone-d4e7e.web.app/)
 
 - I've Currently built [The Netflix Clone 🚀💣](https://netflix-clone-dbc22.web.app/)
 
