@@ -9,9 +9,10 @@
 
 
 
-- 🌱 I’m currently learning **Redux, Next.js, Express.js and C**
+- 🌱 I’m currently learning **Redux, Next.js, Express.js, C** and python
 
 - Hi 👋 I've Currently built [Hulu Clone 💣🚀](https://hulu-clone-5ba29.web.app/)
+- I've Currently built [Airbnb Clone 💣🚀](https://airbnb-clone-32723.web.app/)
 - I've Currently built [Tesla Clone 💣🚀](https://tesla-clone-9b533.web.app/)
 - I've Currently built [Google Clone 💣🚀](https://clone-d4e7e.web.app/)
 - I've Currently built [The Netflix Clone 🚀💣](https://netflix-clone-dbc22.web.app/)
