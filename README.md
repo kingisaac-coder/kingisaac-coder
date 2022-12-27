@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingisaac-coder" alt="kingisaac-coder" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/tessy492485191" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/tessy492485191?logo=twitter&style=for-the-badge" alt="https://twitter.com/tessy492485191" /></a> </p>
-
-
-
 - 🌱 I’m currently learning **Redux, Next.js, Express.js, C** and python
 
 - Hi 👋 I've Currently built [Hulu Clone 💣🚀](https://hulu-clone-5ba29.web.app/)
