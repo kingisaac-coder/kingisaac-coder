@@ -16,7 +16,9 @@
 - I've Currently built [Tesla Clone 💣🚀](https://tesla-clone-9b533.web.app/)
 - I've Currently built [Google Clone 💣🚀](https://clone-d4e7e.web.app/)
 - I've Currently built [The Netflix Clone 🚀💣](https://netflix-clone-dbc22.web.app/)
-
+- I've Currently built [Like4card 🚀💣](https://like4card-52f3c.web.app/)
+-I've Currently built [A beautiful food website ](https://tastemore.surge.sh/)
+I've Even worked on [A beach website](http://kingstravel.surge.sh/)
 - 💬 Ask me about **React, Redux, Next.js and Node.js**
 
 - 📫 How to reach me **kingisaac958@gmail.com**
