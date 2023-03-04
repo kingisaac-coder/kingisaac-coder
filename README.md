@@ -1,5 +1,5 @@
   <h1 align="center" margin-top:"-20%"> Hi 👋, I'm  Isaac Ezesinachi Testimony✔️🏆🚀</h1>
-<h3 align="center">A passionate frontend developer from Nigeria🔴🚀🚀.</h3>
+<h3 align="center">Detail-Oriented Front-end Developer  with more than 3 years of experience working with HTML, CSS3 , SASS , Tailwind, JavaScript  and libararies such as React.Js , Next.Js and Typescript.Highly adept at both independent and colaborative projects, with an emphasis on landing page and website development. </h3>
 <img align="right" alt"hacking"  width="300px" src="https://i.pinimg.com/236x/91/c0/05/91c005b0408b1b27776341ef8156660e.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingisaac-coder&label=Profile%20views&color=0e75b6&style=flat" alt="kingisaac-coder" /> </p>
 
