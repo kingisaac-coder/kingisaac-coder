@@ -1,7 +1,17 @@
   <h1 align="center" margin-top:"-20%"> Hi 👋, I'm  Isaac Testimony✔️🏆🚀</h1>
-<h3 align="center">Detail-Oriented Front-end Developer  with more than 3 years of experience working with HTML, CSS3 , SASS , Tailwind, JavaScript  and libararies such as React.Js , Next.Js and Typescript.Highly adept at both independent and colaborative projects, with an emphasis on landing page and website development. </h3>
-<img align="right" alt"hacking"  width="300px" src="https://i.pinimg.com/236x/91/c0/05/91c005b0408b1b27776341ef8156660e.jpg"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kingisaac-coder&label=Profile%20views&color=0e75b6&style=flat" alt="kingisaac-coder" /> </p>
+<h3 align="center"> Meet our proficient Front-End Programmer, a skilled individual who excels in crafting captivating user interfaces and seamless experiences using React.js and React Native. With a deep understanding of these cutting-edge technologies, this programmer combines creativity and technical expertise to bring digital visions to life.
+
+Equipped with a comprehensive understanding of React.js, our programmer harnesses the power of components, state management, and virtual DOM manipulation to build dynamic web applications. From designing responsive layouts to optimizing performance, they create user interfaces that are not only visually appealing but also intuitive and user-friendly.
+
+Furthermore, their mastery extends to React Native, enabling them to develop cross-platform mobile applications that retain the native look and feel. This proficiency ensures that users on both iOS and Android devices enjoy a consistent and engaging experience.
+
+Our Front-End Programmer's toolkit includes an in-depth knowledge of HTML, CSS, and JavaScript, allowing them to seamlessly integrate various technologies and APIs to enhance functionality. They are well-versed in modern coding practices, ensuring clean and maintainable code that facilitates collaboration with back-end developers and other team members.
+
+Their eye for design and attention to detail translate into pixel-perfect interfaces that align with the project's aesthetic vision. Whether it's implementing complex animations, crafting interactive features, or optimizing for various screen sizes, our programmer's expertise covers the entire spectrum of front-end development.
+
+What truly sets our programmer apart is their ability to adapt and learn quickly in the ever-evolving world of web and mobile technologies. They stay updated with the latest trends and best practices, ensuring that projects remain innovative and competitive.
+
+In collaboration with designers, UX experts, and back-end developers, our Front-End Programmer transforms concepts into captivating digital realities. With React.js and React Native as their tools of choice, they drive user engagement and deliver exceptional experiences that resonate with audiences across platforms. </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingisaac-coder" alt="kingisaac-coder" /></a> </p>
 
